@@ -4,13 +4,6 @@
 
 ---
 
-## 🌐 Live Demo
-
-_Coming Soon..._  
-<!-- Or add your live link here if hosted -->
-
----
-
 ## 🚀 Features
 
 - Create and manage online tournaments
@@ -41,34 +34,37 @@ Before running the project, make sure you have the following installed on your m
 
 ## 📦 Installation
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/shivaansh27/Battle-Arena/
-Navigate to the Project Directory
+### 1. Clone the Repository
+```bash
+git clone https://github.com/shivaansh27/Battle-Arena/
+```
 
-bash
-Copy
-Edit
+### 2. Navigate to the Project Directory
+```bash
 cd Battle-Arena
-Install Dependencies
+```
 
-bash
-Copy
-Edit
+### 3. Install Dependencies
+```bash
 npm install
-▶️ Running the Project
-To start the application, run:
+```
 
-bash
-Copy
-Edit
+---
+
+## ▶️ Running the Project
+
+To start the application, run:
+```bash
 npm run
+```
+
 This will launch both the backend and frontend (if configured in the same repo). Otherwise, run them separately in their respective directories.
 
-📁 Project Structure
-bash
-Copy
-Edit
+---
+
+## 📁 Project Structure
+
+```
 Battle-Arena/
 ├── client/              # React frontend
 │   └── ...
@@ -76,23 +72,23 @@ Battle-Arena/
 │   └── ...
 ├── package.json
 └── README.md
-📸 Screenshots
-Add screenshots or GIFs showing the UI, tournament creation process, and results page.
+```
 
-🚧 Future Improvements
-Add authentication and user profiles
+---
 
-Enable real-time tournament tracking
+## 🚧 Future Improvements
 
-Admin panel for managing multiple tournaments
+- Add authentication and user profiles
+- Enable real-time tournament tracking
+- Admin panel for managing multiple tournaments
+- Notifications and email integration
+- Dark mode support
 
-Notifications and email integration
+---
 
-Dark mode support
+## 👤 Author
 
-👤 Author
-Shivansh Sharma – @shivaansh27
+- **Shivansh Sharma** – [@shivaansh27](https://github.com/shivaansh27)
 
-📄 License
-This project is licensed under the MIT License.
+---
 
